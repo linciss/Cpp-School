@@ -8,8 +8,8 @@ int main() {
   ifstream inputFile;
   ofstream outputFile;
   
-  inputFile.open("reiz/reiz.in");
-  outputFile.open("reiz/reiz.out");
+  inputFile.open("reiz.in");
+  outputFile.open("reiz.out");
   
   inputFile >> N;
   
@@ -23,4 +23,5 @@ int main() {
   outputFile.close();
   inputFile.close();
 
+return 0;
 }
