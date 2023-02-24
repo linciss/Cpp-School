@@ -34,7 +34,7 @@ int main(){
     for(int i =0; i<lenght; i++){
     if(str[i] == str[lenght-i-1]) count++;
     
-}
+    }
 
     if(count==lenght){ out << "IR"; return 0;}
     out << "NAV";

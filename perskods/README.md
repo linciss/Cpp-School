@@ -23,7 +23,7 @@ D
 ```
 
 # **Rezulāti**
-```
+
 >Vērtējums: 15/15
 
 | Tests  |  Rezultāts   |
@@ -31,19 +31,19 @@ D
 |    1   |	Pareizs     |
 |    2   |	Pareizs     |
 |    3   |	Pareizs     |
-|    4   |	Pareizs   |
+|    4   |	Pareizs     |
 |    5	 |  Pareizs     |
 |    6	 |  Pareizs     |
-|    7	 |  Pareizs   |
+|    7	 |  Pareizs     |
 |    8 	 |  Pareizs     |
 |    9 	 |  Pareizs     |
 |    10	 |  Pareizs     |
 |    11   |	Pareizs     |
 |    12   |	Pareizs     |
 |    13   |	Pareizs     |
-|    14   |	Pareizs   |
+|    14   |	Pareizs     |
 |    15	 |  Pareizs     |
-```
+
 
 
 

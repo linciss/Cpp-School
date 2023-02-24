@@ -17,7 +17,7 @@ int main(){
     
     int count_colored=0, count_varnished=0, count_normal=0, count_raw=0;
     
-    for(int i =0; i<k; i){
+    for(int i =0; i<k; i++){
         if(i==m && i==n){
             count_raw++;
             m+=startValue_m;

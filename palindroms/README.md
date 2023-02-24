@@ -26,7 +26,7 @@ NAV
 ```
 
 # **Rezulāti**
-```
+
 > Vērtējums: 8/10
 
 | Tests  |  Rezultāts   |
@@ -41,6 +41,6 @@ NAV
 |    8 	 |  Pareizs     |
 |    9 	 |  Pareizs     |
 |    10	 |  Pareizs     |
-```
+
 
 
