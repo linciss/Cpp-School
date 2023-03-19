@@ -1,6 +1,6 @@
 # **Dergas breketes**
 
-## **Write a function that takes a string of braces, and determines if the order of the braces is valid. It should return true if the string is valid, and false if it's invalid.**
+## **Uzrakstiet funkciju, kas ņem iekavu virkni un nosaka, vai iekavu secība ir derīga. Tai ir jāatgriež taisnība, ja virkne ir derīga, un false, ja tā ir nederīga.**
 ------
 ## **Piemēram:**
 
