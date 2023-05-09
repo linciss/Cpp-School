@@ -1,3 +1,3 @@
 # Cpp-School
-38/50 8)
+39/50 8)
 please end my suffering
