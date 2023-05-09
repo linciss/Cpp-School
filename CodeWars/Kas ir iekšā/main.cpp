@@ -31,7 +31,6 @@ class WhichAreIn
 
 };
    
-
    
     int main(){
         WhichAreIn WhichAreIn;
