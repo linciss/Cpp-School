@@ -3,6 +3,17 @@
 #include <vector>
 #include <algorithm>
 
+std::string spinWords(const std::string &str);
+
+int main()
+{
+    std::cout << spinWords("Hey fellow warriors") << std::endl;
+    
+
+    return 0;
+}
+
+
 std::string spinWords(const std::string &str)
 {
     std::string result;
@@ -24,14 +35,3 @@ std::string spinWords(const std::string &str)
     result += word;
     return result;
 }// spinWords
-
-int main()
-{
-
-    
-
-    return 0;
-}
-
-
-
